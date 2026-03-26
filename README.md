@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <a href="https://agarez.my.id">
+  <a href="https://www.agarez.my.id">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" height="25" />
   </a>
   <a href="https://discord.gg/nH94vYstKA">
