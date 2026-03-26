@@ -41,8 +41,8 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Nothingness1312&show_icons=true&theme=tokyonight&border_color=00FF41&title_color=00FF41&icon_color=00FF41" height="160" />
-<img src="https://streak-stats.demolab.com?user=Nothingness1312&theme=tokyonight&border=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00FF41" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Garminzero&show_icons=true&theme=tokyonight&border_color=00FF41&title_color=00FF41&icon_color=00FF41" height="160" />
+<img src="https://streak-stats.demolab.com?user=Garminzero&theme=tokyonight&border=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00FF41" height="160" />
 
 </div>
 
@@ -52,9 +52,9 @@
 
 <!-- Snake contribution animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nothingness1312/Nothingness1312/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nothingness1312/Nothingness1312/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Nothingness1312/Nothingness1312/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garminzero/Garminzero/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garminzero/Garminzero/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Garminzero/Garminzero/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -64,7 +64,7 @@
 <div align="center">
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Nothingness1312&theme=matrix&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Garminzero&theme=matrix&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -73,7 +73,7 @@
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nothingness1312&theme=react-dark&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Garminzero&theme=react-dark&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
